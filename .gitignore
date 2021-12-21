@@ -9,6 +9,7 @@ Assets/UnityVS.meta
 Assets/Icons.meta
 TEMP.meta
 Logs/
+*.vsconfig
 
 # Unity3D Generated File On Crash Reports
 #########################################
